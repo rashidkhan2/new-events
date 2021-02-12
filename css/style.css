@@ -1,0 +1,68 @@
+#into{
+  background-image: url("../img/intro-bg.jpg");
+  background-size: cover;
+  height: 550px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position:center;
+  position: relative;
+  background-attachment: fixed;
+}
+.dark-overly{
+  position: absolute;
+	top:30%;
+  left:20%;
+  margin-right: 50px;
+	text-align: center;
+}
+.btndanger{
+margin-top:45px;
+margin-left: -350px;
+float:right;
+}
+#danger-hover:hover{
+color:green;
+}
+#register{
+  background-image:url("../img/register-bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height:650px;
+}
+#form-control{
+    background-color: #ffffff00;
+  }
+#venue{
+  background-image: url("../img/venue-bg.jpg");
+  width: 100%;
+  min-height: ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+#touch{
+  background-image: url("../img/contact-bg.jpg");
+  width: 100%;
+  min-height:400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+
+#formControl {
+    color: #495057;
+    background-color: #fff0;
+    border: none;
+    border-bottom: 1px solid;
+}
+#fdIcon{
+  font-size: 25px;
+}
+#inIcon{
+  font-size: 25px;
+  color:red;
+}
